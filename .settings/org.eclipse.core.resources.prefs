@@ -1,5 +1,9 @@
 eclipse.preferences.version=1
 encoding//org/xf/test/TestAutoTagging.py=utf-8
 encoding//org/xf/test/TestConditionalFreqdist.py=utf-8
+encoding//org/xf/test/TestContextFreeGrammar.py=utf-8
+encoding//org/xf/test/TestFeatureBasedGrammars.py=utf-8
 encoding//org/xf/test/TestMaxProLinkWord.py=utf-8
+encoding//org/xf/test/TestNPChunkingWithUnigram.py=utf-8
 encoding//org/xf/test/TestTextClassify.py=utf-8
+encoding//org/xf/test/unigramChunker.py=utf-8
