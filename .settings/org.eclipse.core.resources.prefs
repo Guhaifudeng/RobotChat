@@ -1,7 +1,14 @@
 eclipse.preferences.version=1
+encoding//myspider/badi_search/badi_search/settings.py=utf-8
+encoding//myspider/badi_search/badi_search/spiders/baidusearch.py=utf-8
+encoding//myspider/myfirstpro/myfirstpro/settings.py=utf-8
+encoding//myspider/myfirstpro/myfirstpro/spiders/TestSelector.py=utf-8
+encoding//myspider/myfirstpro/myfirstpro/spiders/shareditor.py=utf-8
+encoding//myspider/shareditor.py=utf-8
 encoding//org/xf/test/TestAutoTagging.py=utf-8
 encoding//org/xf/test/TestConditionalFreqdist.py=utf-8
 encoding//org/xf/test/TestContextFreeGrammar.py=utf-8
+encoding//org/xf/test/TestDependencyParsingUsedLTP.py=utf8
 encoding//org/xf/test/TestFeatureBasedGrammars.py=utf-8
 encoding//org/xf/test/TestMaxProLinkWord.py=utf-8
 encoding//org/xf/test/TestNPChunkingWithUnigram.py=utf-8
